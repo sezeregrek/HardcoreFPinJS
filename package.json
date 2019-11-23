@@ -3,6 +3,7 @@
     "test": "jest"
   },
   "dependencies": {
+    "accounting": "^0.4.1",
     "ramda": "^0.26.1"
   },
   "devDependencies": {
